@@ -1,7 +1,14 @@
 ---
+layout: post
 title: "19.01.07 READ(2019) 논문 리뷰"
-date: 2019-01-07 13:22:00 -0400
-categories: article review
+excerpt_separator: <!--more-->
+categories:
+ - article review
+tags:
+ - 논문리뷰
+ - 자동차
+ - 프로토콜 역공학
+ - CAN 프로토콜
 ---
 
 1. 서론
