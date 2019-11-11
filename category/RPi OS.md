@@ -1,6 +1,6 @@
 ---
 layout: category
-title: RPi-OS
+title: RPi OS
 ---
 
 reference : https://github.com/s-matyukevich/raspberry-pi-os
