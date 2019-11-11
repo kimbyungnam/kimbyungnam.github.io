@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://leeminki.github.io/sitemap.xml
+Sitemap: http://kimbyungnam.github.io/sitemap.xml
