@@ -4,6 +4,6 @@ title: Dev
 slug: dev
 menu: true
 submenu: true
-order: 2
+order: 1
 description: >
 ---

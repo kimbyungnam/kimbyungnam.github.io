@@ -2,33 +2,33 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               blupine
+title:               usan
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://blupine.github.io
+url:                 https://kimbyungnam.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "이것저것"
+tagline:             "SW/Security/Etc."
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  blupine
+  usan
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              blupine
-  email:             skwint11@gmail.com
+  name:              usan
+  email:             kimbyungnam@ajou.ac.kr
 
 # Fallback image and color
 image:               ''
-color:               '#4f86aa'
- #'#4f86aa'
+color:               '#b5d692'
+ #'#b5d692'
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 font_heading:        "'Roboto','Lato','-apple-system','Verdana','PingFang SC','Helvetica Neue','Arial','Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei','sans-serif'"
 
@@ -48,10 +48,10 @@ google_analytics:    #UA-137374202-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus: True
-disqus_shortname:    blupine
+disqus_shortname:    usan
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2020.02. by blupine'
+copyright:           '&copy; 2020.02. by usan'
 
 # Format of the permalinks
 permalink:           pretty

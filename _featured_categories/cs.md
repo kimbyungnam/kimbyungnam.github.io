@@ -4,7 +4,7 @@ title: CS
 slug: cs
 menu: true
 submenu: true
-order: 3
+order: 5
 description: >
-  OS / Network 등 Computer Science
+  Network 등 Computer Science
 ---
