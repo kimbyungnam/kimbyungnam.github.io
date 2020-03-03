@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
 blupine:
-  name:              blupine
-  email:             skwint11@gmail.com
+  name:              usan
+  email:             kimbyungnam@ajou.ac.kr
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -46,7 +46,7 @@ blupine:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          blupine
+    github:          kimbyungnam
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -57,8 +57,8 @@ blupine:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:skwint11@gmail.com
-    rss:             https://blupine.github.io/feed.xml
+    email:           mailto:kimbyungnam@ajou.ac.kr
+    rss:             https://kimbyungnam.github.io/feed.xml
 
 # Another author
 mdo:
