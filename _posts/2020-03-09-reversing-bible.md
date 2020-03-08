@@ -43,7 +43,7 @@ tags: reversing
 
   ESI는 문자열이나 각종 반복 데이터를 처리 또는 메모리를 옮기는데 사용된다. 보통 **ESI는 시작 인덱스, EDI는 목적지 인덱스**로 사용된다. 그리고 경우에 따라 al, ah 등의 레지스터는 16비트 레지스터로 크기가 반 정도 작고 위의 레지스터의 **일부분**만을 사용하는 레지스터가 된다. 아래 사진을 참고하자.
 
-<center>![image](https://user-images.githubusercontent.com/32065940/76166897-8fe6ff00-61a5-11ea-8b27-77d598c4d146.png)</center>
+![image](https://user-images.githubusercontent.com/32065940/76166897-8fe6ff00-61a5-11ea-8b27-77d598c4d146.png)
 
 > 어셈블리에서 연산은 레지스터를 이용한다. 메모리끼리는 연산할 수가 없다. 메모리의 값을 연산에 활용하기 위해서는 레지스터에 담고 연산을 한후 다시 메모리로 담아야 한다.
 
