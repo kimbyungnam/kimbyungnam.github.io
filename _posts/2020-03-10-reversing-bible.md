@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "리버싱 바이블 - 2. C 문법과 디스어셈블링"
-categories: security
+categories: security, os
 tags: reversing             
 ---
 
