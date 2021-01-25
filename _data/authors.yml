@@ -1,7 +1,7 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
-blupine:
+usan:
   name:              usan
   email:             kimbyungnam@ajou.ac.kr
 
@@ -22,7 +22,7 @@ blupine:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    facebook:        cantouchmin
+    # facebook:        cantouchmin
     # twitter:         <username>
     # google:          <number>
     # vk:              <username>
@@ -51,7 +51,8 @@ blupine:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        byungnam-kim-5030b9205
+    # linkedin:         <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
