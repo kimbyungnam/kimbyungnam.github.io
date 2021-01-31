@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oversized Pancake Flipper"
+title: "Bathroom Stalls"
 categories: algorithm
 tags: codejam
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oversized Pancake Flipper"
+title: "Tidy Numbers"
 categories: algorithm
 tags: codejam
 ---
