@@ -3,8 +3,8 @@ layout: post
 title: "READ(2019) 논문 리뷰"
 subtitile: ""
 date: 2019-01-07 22:27:39 +0900
-categories: security
-tags: ""
+categories: paper
+tags: security
 ---
 
 1. 서론
