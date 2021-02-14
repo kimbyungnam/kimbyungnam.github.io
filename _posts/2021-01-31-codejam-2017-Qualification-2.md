@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tidy Numbers"
+subtitle: "Google Codejam 2017 Qualification Round"
 categories: algorithm
 tags: codejam
 ---

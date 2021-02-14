@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Oversized Pancake Flipper"
+subtitle: "Google Codejam 2017 Qualification Round"
 categories: algorithm
 tags: codejam
 ---
