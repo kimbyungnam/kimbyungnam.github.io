@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two Tables (#B)"
+title: "Coin Rows (#C)"
 subtitle: "Codeforces Educational Round 112 Div.2"
 categories: algorithm
 tags: codeforces
