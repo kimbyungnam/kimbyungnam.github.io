@@ -8,7 +8,7 @@ tags: codeforces
 
 ## 문제파악
 
-anti-fibonacci 란 $p_{i-2} + p_{i-1} \neq p_i (3 \le i \le n)$ 이 조건을 만족하는 수열을 말한다. n이 주어질 때 길이가 n인 가능한 모든 anti-fibonacci 수열을 반환한다. 
+anti-fibonacci 란 <img src="https://latex.codecogs.com/svg.image?p_{i-2}&space;&plus;&space;p_{i-1}&space;\neq&space;p_i&space;(3&space;\le&space;i&space;\le&space;n)" title="p_{i-2} + p_{i-1} \neq p_i (3 \le i \le n)" /> 이 조건을 만족하는 수열을 말한다. n이 주어질 때 길이가 n인 가능한 모든 anti-fibonacci 수열을 반환한다. 
 
 
 ## IDEA
