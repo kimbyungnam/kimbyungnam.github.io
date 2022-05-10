@@ -11,7 +11,7 @@ tags: basics
 원소가 n개인 집합의 모든 부분집합을 생성
 > {1,2,3} -> 0, {1}, {2}, {3}, {1,2}, {1,3}, {2,3}, {1,2,3}
 
-```C++
+```c++
 #include <stdio.h>
 #include <vector>
 
@@ -39,7 +39,7 @@ void serach(vector<int> & subset, int k){
 원소가 n개인 집합의 모든 순열을 생성  
 > {1,2,3} -> {1,2,3}, {1,3,2}, {2,1,3}, {2,3,1}, {3,1,2}, {3,2,1}  
 
-```C++
+```c++
 #include <stdio.h>
 #include <vector>
 
@@ -70,7 +70,7 @@ void search(vector<int> & permutation, vector<int> & chosen){
 
 ### n queen problem  
 n*n 배열에서 n개의 퀸을 서로 공격할 수 없도록(대각선, 가로, 세로 겹치지 않게) 배치하는 방법의 수 구하기
-```C++
+```c++
 #include <vector>
 
 using namespace std;
