@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bit Calculation"
-subtitle: "비트 연산"
+subtitle: "Guide to Competitive Programming"
 categories: algorithm
 tags: basics
 ---

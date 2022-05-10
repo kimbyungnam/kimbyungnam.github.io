@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recursion"
-subtitle: "재귀"
+subtitle: "Guide to Competitive Programming"
 categories: algorithm
 tags: basics
 ---

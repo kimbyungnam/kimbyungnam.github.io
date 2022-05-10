@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Algorithm Summary"
-subtitle: "알고리즘 종합 정리"
+subtitle: "Guide to Competitive Programming"
 categories: algorithm
 tags: basics
 ---
