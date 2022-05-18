@@ -1,5 +1,6 @@
 ---
 layout: post
+use_math: true
 title: "(2009)Differential Fault Analysis on DES Middle Rounds 논문 리뷰"
 subtitile: "DES DFA 논문"
 categories: paper
