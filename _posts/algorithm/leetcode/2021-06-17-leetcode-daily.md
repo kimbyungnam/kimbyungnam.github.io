@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Leetcode top-interview-question-easy (5~8)"
 subtitle: "Leetcode top-interview-question-easy"
 categories: algorithm

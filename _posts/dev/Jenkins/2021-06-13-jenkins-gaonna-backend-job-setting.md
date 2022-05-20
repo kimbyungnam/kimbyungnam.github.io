@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Gaonna Backend Jenkins CI 구축기"
 subtitle: "Jenkins CI for Backend"
 categories: dev

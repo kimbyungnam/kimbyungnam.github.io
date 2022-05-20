@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Palindrome Game (hard version) (#B2)"
 subtitle: "Codeforces Round 721 Div.2"
 categories: algorithm

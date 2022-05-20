@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "openssl DRBG(NIST sp800-90A) 분석"
 categories: security
 tags: openssl

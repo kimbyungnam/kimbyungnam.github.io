@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Two Tables (#B)"
 subtitle: "Codeforces Educational Round 112 Div.2"
 categories: algorithm

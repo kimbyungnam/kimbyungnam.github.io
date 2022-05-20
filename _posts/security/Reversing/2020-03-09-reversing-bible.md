@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "리버싱 바이블 - 1. 리버스 엔지니어링 기본"
 categories: security
 tags: reversing             

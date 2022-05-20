@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "자바 ORM 표준 JPA 프로그래밍 - 기본편 (프록시와 연관관계)"
 subtitle: "자바 ORM 표준 JPA 프로그래밍 - 기본편, inflearn"
 categories: dev

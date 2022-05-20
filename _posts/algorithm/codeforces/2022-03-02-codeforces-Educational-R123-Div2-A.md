@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Doors and Keys (#A)"
 subtitle: "Codeforces Educational Round 123 Div.2"
 categories: algorithm

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "RPD and Rap Sheet (Easy Version) (#D1)"
 subtitle: "Codeforces Round 730 Div.2"
 categories: algorithm

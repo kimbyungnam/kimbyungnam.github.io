@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Bathroom Stalls"
 subtitle: "Google Codejam 2017 Qualification Round"
 categories: algorithm

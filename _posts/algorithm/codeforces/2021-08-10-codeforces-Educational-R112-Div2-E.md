@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Boring Segments (#E)"
 subtitle: "Codeforces Educational Round 112 Div.2"
 categories: algorithm

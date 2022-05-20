@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Bit Calculation"
 subtitle: "Guide to Competitive Programming"
 categories: algorithm

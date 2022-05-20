@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Need for Pink Slips (#C)"
 subtitle: "Codeforces Round 730 Div.2"
 categories: algorithm

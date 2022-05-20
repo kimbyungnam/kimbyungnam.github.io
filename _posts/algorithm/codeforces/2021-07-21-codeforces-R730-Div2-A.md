@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Exciting Bets (#A)"
 subtitle: "Codeforces Round 730 Div.2"
 categories: algorithm

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Anti-Fibonacci Permutation (#B)"
 subtitle: "Codeforces Educational Round 123 Div.2"
 categories: algorithm

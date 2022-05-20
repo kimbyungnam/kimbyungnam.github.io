@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Expand the Path (#E)"
 subtitle: "Codeforces Educational Round 123 Div.2"
 categories: algorithm

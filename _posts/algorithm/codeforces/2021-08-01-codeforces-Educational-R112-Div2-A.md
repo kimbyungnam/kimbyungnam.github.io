@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "PizzaForces (#A)"
 subtitle: "Codeforces Educational Round 112 Div.2"
 categories: algorithm

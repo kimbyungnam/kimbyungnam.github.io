@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Recursion"
 subtitle: "Guide to Competitive Programming"
 categories: algorithm

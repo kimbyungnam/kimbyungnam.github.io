@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "자바 ORM 표준 JPA 프로그래밍 - 기본편 (영속성 관리, JPA 내부 구조)"
 subtitle: "자바 ORM 표준 JPA 프로그래밍 - 기본편, inflearn"
 categories: dev

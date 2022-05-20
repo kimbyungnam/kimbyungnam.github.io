@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Algorithm Summary"
 subtitle: "Guide to Competitive Programming"
 categories: algorithm
