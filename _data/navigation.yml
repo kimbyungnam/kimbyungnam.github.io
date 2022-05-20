@@ -1,9 +1,44 @@
 posts:
   - title: Categories
     url: /categories/
-
-  - title: Tags
-    url: /tags/
+    children:
+      - title: algorithm
+        url : /categories/#algorithm
+        children:
+          - title: basics
+            url: /tags/#basics
+          - title: codeforces
+            url: /tags/#codeforces
+          - title: codejam
+            url: /tags/#codejam
+          - title: leetcode
+            url: /tags/#leetcode
+      - title: security
+        url : /categories/#security
+        children:
+          - title: pwnable
+            url: /tags/#pwnable
+          - title: reversing
+            url: /tags/#reversing
+          - title: openssl
+            url: /tags/#openssl
+      - title: os
+        url : /categories/#os
+        children:
+          - title: raspberry
+            url: /tags/#raspberry
+      - title: dev
+        url : /categories/#dev
+        children:
+          - title: JPA
+            url: /tags/#JPA
+          - title: Jenkins
+            url: /tags/#Jenkins
+      - title: paper
+        url : /categories/#paper
+        children:
+          - title: security
+            url: /tags/#security
 
 main:
   - title: "About"
