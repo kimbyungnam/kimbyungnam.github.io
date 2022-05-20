@@ -221,12 +221,6 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 collections:
-  categories:
-    output: true
-    permalink: /:collection/:path/
-  tags:
-    output: true
-    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
