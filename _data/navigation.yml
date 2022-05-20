@@ -38,9 +38,15 @@ posts:
         url: "/tags/#security"
 
 main:
-  - title: "About"
-    url: /about/
+  - title: "Posts"
+    url: /year-archive/
   - title: "Tags"
     url: /tags/
   - title: "Categories"
     url: /categories/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "About"
+    url: /about/
