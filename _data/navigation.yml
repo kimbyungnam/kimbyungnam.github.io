@@ -44,8 +44,6 @@ main:
     url: /tags/
   - title: "Categories"
     url: /categories/
-  - title: "Posts"
-    url: /year-archive/
   - title: "Portfolio"
     url: /portfolio/
   - title: "About"
