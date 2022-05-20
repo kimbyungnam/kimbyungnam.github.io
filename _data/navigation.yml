@@ -23,14 +23,14 @@ posts:
     url : "/categories/#os"
     children:
       - title: raspberry
-        url: "/tags/#raspberry"
+        url: "/tags/#raspberrypi"
   - title: dev
     url : "/categories/#dev"
     children:
       - title: JPA
-        url: "/tags/#JPA"
+        url: "/tags/#jpa"
       - title: Jenkins
-        url: "/tags/#Jenkins"
+        url: "/tags/#jenkins"
   - title: paper
     url : "/categories/#paper"
     children:
