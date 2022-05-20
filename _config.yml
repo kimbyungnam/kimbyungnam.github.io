@@ -303,6 +303,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "posts"
 
   # _portfolio
   - scope:
