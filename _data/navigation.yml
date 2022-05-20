@@ -1,6 +1,14 @@
-docs:
+posts:
   - title: Posts
-    url: "/posts/"
+    url: /posts/
 
   - title: Tags
-    url: "/tags/"
+    url: /tags/
+
+main:
+  - title: "About"
+    url: /about/
+  - title: "Tags"
+    url: /tags/
+  - title: "Posts"
+    url: /posts/
