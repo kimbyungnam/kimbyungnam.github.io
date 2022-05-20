@@ -22,7 +22,7 @@ posts:
   - title: os
     url : "/categories/#os"
     children:
-      - title: raspberry
+      - title: raspberrypi
         url: "/tags/#raspberrypi"
   - title: dev
     url : "/categories/#dev"
