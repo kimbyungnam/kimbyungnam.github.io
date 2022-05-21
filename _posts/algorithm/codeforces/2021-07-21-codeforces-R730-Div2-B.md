@@ -19,7 +19,7 @@ tags: codeforces
 1. 방해도가 최소가 되려면 각 sub-track들의 차이가 최소가 되어야 한다
 2. 즉, 차량을 최대한 평등하게 분배를 해야 한다
 3. 차량 이동 횟수나 방법에 제한이 없기 때문에 각 sub-track 간 차이는 1을 넘기지 않는다
-4. 따라서 각 sub-track의 트래픽은  p 또는 p+1이며 p인 sub-track의 개수는 $sum\ mod\ n$​ 이며 p+1인 sub-track의 개수는 $n - sum\ mode\ n$이다
+4. 따라서 각 sub-track의 트래픽은  p 또는 p+1이며 p인 sub-track의 개수는 $sum \pmod{n}$​ 이며 p+1인 sub-track의 개수는 $n - sum \pmod{n}$이다
 
 
 
