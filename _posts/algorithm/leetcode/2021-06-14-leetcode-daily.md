@@ -16,7 +16,7 @@ tags: leetcode
 2. 두 번째 포인터 **j**는 채워야할 배열의 위치를 나타낸다
 3. **i**를 증가시키면서 이전 요소와 값이 다르다면 **j** 위치에 값을 복사한다
 
-``` c++
+```c++
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
@@ -50,7 +50,7 @@ public:
 
    따라서 상승분을 합친것이 최대 이익을 내는 transaction의 결과와 일치한다
 
-``` c++
+```c++
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
