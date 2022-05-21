@@ -10,7 +10,7 @@ tags: codeforces
 
 레이싱 경기를 하기 위한 sub-track들이 존재하는데 트래픽의 방해를 최소한으로 받게 트래픽 차량들을 옮기고 트랙의 최소 방해도를 계산해야 한다  
 
-> 방해도 = $\sum_{i=1}^n$ $\sum_{j=i+1}^n$ $|a_i - a_j|$​
+> 방해도 = $\sum_{i=1}^n$ $\sum_{j=i+1}^n$ $\vert a_i - a_j\vert$​
 
 
 
