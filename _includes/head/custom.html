@@ -1,4 +1,7 @@
 <!-- start custom head snippets -->
+{% if page.use_math %}
+    {% include mathjax_support.html %}
+{% endif %}
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/img/favicon/apple-touch-icon.png" | relative_url }}">
