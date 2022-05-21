@@ -1,5 +1,5 @@
 ---
-
+use_math: true
 title: "Increase Subarray Sums (#C)"
 subtitle: "Codeforces Educational Round 123 Div.2"
 categories: algorithm

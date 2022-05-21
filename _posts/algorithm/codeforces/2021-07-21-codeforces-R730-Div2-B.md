@@ -1,5 +1,5 @@
 ---
-
+use_math: true
 title: "Customising the Track (#B)"
 subtitle: "Codeforces Round 730 Div.2"
 categories: algorithm

@@ -1,5 +1,5 @@
 ---
-
+use_math: true
 title: "MEX Tree (#D)"
 subtitle: "Codeforces Round 721 Div.2"
 categories: algorithm

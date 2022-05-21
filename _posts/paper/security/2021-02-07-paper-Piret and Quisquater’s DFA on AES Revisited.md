@@ -1,5 +1,5 @@
 ---
-
+use_math: true
 title: "(2010)Piret and Quisquater’s DFA on AES Revisited 논문 리뷰"
 subtitile: "AES DFA 논문"
 categories: paper

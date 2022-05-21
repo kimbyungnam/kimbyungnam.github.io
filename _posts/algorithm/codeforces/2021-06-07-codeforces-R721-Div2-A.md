@@ -1,5 +1,5 @@
 ---
-
+use_math: true
 title: "And Then There Were K (#A)"
 subtitle: "Codeforces Round 721 Div.2"
 categories: algorithm

@@ -1,5 +1,5 @@
 ---
-
+use_math: true
 title: "Bit Calculation"
 subtitle: "Guide to Competitive Programming"
 categories: algorithm

@@ -1,5 +1,5 @@
 ---
-
+use_math: true
 title: "Sequence Pair Weight (#C)"
 subtitle: "Codeforces Round 721 Div.2"
 categories: algorithm
