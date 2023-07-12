@@ -36,6 +36,11 @@ posts:
     children:
       - title: security
         url: "/tags/#security"
+  - title: self_development
+    url : "/categories/#self_development"
+    children:
+      - title: book
+        url: "/tags/#book"
 
 main:
   - title: "Posts"
