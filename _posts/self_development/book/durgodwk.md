@@ -3,7 +3,7 @@
 title: "역행자 - 후기"
 subtitile: ""
 date: 2023-07-12 23:47:00 +0900
-categories: self-development
+categories: self_development
 tags: book
 ---
 
